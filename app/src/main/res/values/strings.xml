@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Testing</string>
+    <string name="app_name_edit_text">EditTextActivity</string>
+    <string name="app_name_layout">TestLayoutActivity</string>
 </resources>
